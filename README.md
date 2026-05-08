@@ -58,14 +58,10 @@ The dashboard helps in understanding:
 
 ---
 
-## Dashboard Preview
-
-Add your dashboard screenshots here.
+## Dashboard Preview:
 
 Example:
-
-![Dashboard Preview](<img width="1251" height="698" alt="image" src="https://github.com/user-attachments/assets/426b4f9e-df32-4249-9225-c804fbae913b" />
-)
+<img width="1251" height="698" alt="image" src="https://github.com/user-attachments/assets/426b4f9e-df32-4249-9225-c804fbae913b" />
 
 
 ## Project Files
