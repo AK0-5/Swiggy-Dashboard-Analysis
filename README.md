@@ -60,20 +60,14 @@ The dashboard helps in understanding:
 
 ## Dashboard Preview:
 
-Example:
+Overall Performance Overview:
 <img width="1251" height="698" alt="image" src="https://github.com/user-attachments/assets/426b4f9e-df32-4249-9225-c804fbae913b" />
 
+Category and Cities Analysis:
+<img width="1253" height="698" alt="image" src="https://github.com/user-attachments/assets/c0b4e0da-c7c4-447c-9575-7490b7a61012" />
 
-## Project Files
-
-```text
-Swiggy-PowerBI-Dashboard/
-│
-├── Swiggy Dashboard.pbix
-├── README.md
-├── dashboard.png
-└── dataset.csv
-```
+Detailed Category Insights:
+<img width="1252" height="702" alt="image" src="https://github.com/user-attachments/assets/dee4f5be-a244-4973-839f-be6500d7448c" />
 
 ---
 
@@ -86,13 +80,8 @@ Swiggy-PowerBI-Dashboard/
 
 ---
 
-## Author
-
+## Author:
 Atharv Kinjawadekar
 
 ---
 
-## Connect
-
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
