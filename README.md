@@ -1,4 +1,4 @@
-# Swiggy Power BI Dashboard
+# Swiggy Dashboard Analysis
 
 ## Overview
 
